@@ -26,7 +26,7 @@
 #### Note : This application does not store plane, customer entities. Columns related to these (like customer first name, last name or plane seat number, totals seats) stored in another object instead.
 
 ##### - Airline
- -- GET (By ID) : http://ec2-18-191-29-198.us-east-2.compute.amazonaws.com:5000/airline/{id}
+ -- GET (By ID) : http://ec2-18-191-29-198.us-east-2.compute.amazonaws.com:5000/airlines/{id}
 
    - Sample Request Payload : - 
    - Sample Response Payload : 
@@ -35,7 +35,7 @@
         "name": "THY"
     }
 
- -- POST : http://ec2-18-191-29-198.us-east-2.compute.amazonaws.com:5000/airline
+ -- POST : http://ec2-18-191-29-198.us-east-2.compute.amazonaws.com:5000/airlines
 
    - Sample Request Payload : 
     {
@@ -48,7 +48,7 @@
         "name": "THY"
     }
  
--- DELETE : http://ec2-18-191-29-198.us-east-2.compute.amazonaws.com:5000/airports/{id}
+-- DELETE : http://ec2-18-191-29-198.us-east-2.compute.amazonaws.com:5000/airlines/{id}
 
    - Sample Request Payload : -
    - Sample Response Payload : -
