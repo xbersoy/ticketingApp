@@ -18,7 +18,7 @@
 
   - This repository can be imported as Maven project and run on your local IDE.
   - You can also access running application on AWS: [linkAWS]
-  - Docker hub: [xbersoyDockerHub]
+  - Docker hub: [xbersoy] (can be pulled on cli : docker pull burakersoy/ticketingsystem:latest)
   
    
 ### Service Documentation 
