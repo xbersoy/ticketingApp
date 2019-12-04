@@ -253,7 +253,7 @@ NOTE:
 
 NOTE:
 > Default ticket price is set as 100.00
-> and default available seat is set 100 for every each flight
+> and default available seat is set 100 for every each flight.
 > After post request to ticket entity, available seat decreases 1
 > on delete ticket increases 1
 
